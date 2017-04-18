@@ -1,0 +1,8 @@
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/tests/buckeyestore.core.tests/bin/Debug/netcoreapp1.1/buckeyestore.core.tests.deps.json
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/buckeyestore.core.tests.AssemblyInfo.cs
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.dll
+/Users/courtneyanderson/Desktop/AMIS/BuckeyeStore/Tests/BuckeyeStore.Core.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Core.Tests.pdb
